@@ -1,0 +1,41 @@
+PODS:
+  - DropDown (2.3.13)
+  - PDFReader (2.5.1)
+  - RNCryptor (5.1.0)
+  - SDWebImage (5.11.1):
+    - SDWebImage/Core (= 5.11.1)
+  - SDWebImage/Core (5.11.1)
+  - SVProgressHUD (2.2.5)
+  - SwiftQRScanner (0.1.4)
+
+DEPENDENCIES:
+  - DropDown
+  - PDFReader
+  - RNCryptor (~> 5.0)
+  - SDWebImage (~> 5.0)
+  - SVProgressHUD
+  - SwiftQRScanner (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - DropDown
+    - PDFReader
+    - RNCryptor
+    - SDWebImage
+    - SVProgressHUD
+
+EXTERNAL SOURCES:
+  SwiftQRScanner:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  PDFReader: 2c4a845d0560f33221cf911516e3b700967680f6
+  RNCryptor: a369134686cd2ad391323cc856b62e591193ba79
+  SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftQRScanner: 4e5fd0f29c7a8888998de191d10bb4d38a1ee34a
+
+PODFILE CHECKSUM: 2e45d8d6dc2373520478f783b24be8b45aa5bb37
+
+COCOAPODS: 1.10.1

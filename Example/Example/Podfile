@@ -1,0 +1,16 @@
+use_frameworks!
+
+target 'SwiftQRScanner_Example' do
+  pod 'SwiftQRScanner', :path => '../'
+  pod 'SVProgressHUD'
+ pod 'SDWebImage', '~> 5.0'
+pod 'PDFReader'
+pod 'RNCryptor', '~> 5.0'
+pod 'DropDown'
+
+  target 'SwiftQRScanner_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
