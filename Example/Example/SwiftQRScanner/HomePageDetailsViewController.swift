@@ -78,7 +78,7 @@ class HomePageDetailsViewController: UIViewController ,UITableViewDelegate,UITab
 //            }
 //        }
     
-
+asdssdsdsd
         // Do any additional setup after loading the view.
     }
     // MARK: - Table view functions
